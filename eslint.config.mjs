@@ -1,4 +1,4 @@
-const nx = require('@nx/eslint-plugin');
+import * as nx from '@nx/eslint-plugin';
 
 module.exports = [
   ...nx.configs['flat/base'],

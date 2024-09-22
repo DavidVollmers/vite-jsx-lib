@@ -1,1 +1,1 @@
-export * from './lib/vite-jsx-lib';
+export { jsx } from './lib';

@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "jsx": "preserve",
     "rootDir": ".",
     "sourceMap": true,
     "declaration": false,
